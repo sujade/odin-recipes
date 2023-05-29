@@ -1,0 +1,1 @@
+The project is about using the base HTML knowledge I have. Along with this, I'll try to add some flavor here and there to peresonalize this project a little, to my taste.
