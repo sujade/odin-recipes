@@ -3,6 +3,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     cursor: url(/images/cursor.cur), auto;
+    
 }
 
 .card {
@@ -14,6 +15,7 @@ body {
     margin: auto;
 }
 
+
 .links {
 
   padding: 30px;
@@ -24,6 +26,7 @@ body {
   font-size:medium;
   border: 2px solid black;
   cursor: url(/images/cursor.cur), auto;
+  margin: 20px;
 }
 
 div.container {
@@ -43,3 +46,4 @@ div.container {
 a:hover {
   background-color: salmon;
 }
+
