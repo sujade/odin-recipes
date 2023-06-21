@@ -14,6 +14,18 @@ body {
     margin: auto;
 }
 
+.links {
+
+  padding: 30px;
+  text-align: center;
+  background-color:darksalmon;
+  color: black;
+  font-weight: bold;
+  font-size:medium;
+  border: 2px solid black;
+  cursor: url(/images/cursor.cur), auto;
+}
+
 div.container {
     text-align: center;
   }
@@ -28,14 +40,6 @@ div.container {
     text-align: left;
   }
 
-  .links {
-    padding: 30px;
-    text-align: center;
-    background-color: darksalmon;
-    color: black;
-    font-weight: bold;
-    font-size: medium;
-    border: 2px solid black;
-    cursor: url(images/cursor.cur), auto;
-  }
-
+a:hover {
+  background-color: salmon;
+}
