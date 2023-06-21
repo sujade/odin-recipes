@@ -2,7 +2,7 @@ The project is about using the base HTML knowledge I have. Along with this, I'll
 
 ---
 
-After being done with the project, I was able to implement basic CSS elements and use my newly gained knowledge about the box model. Creating a common .css file for recipe pages made me sure that I figured out a shortcut but I bet that this is a common method in such cases.
+After being roughly done with the project, I was able to implement basic CSS elements and use my newly gained knowledge about the box model. Creating a common .css file for recipe pages made me sure that I figured out a shortcut but I bet that this is a common method in such cases.
 
 However, it cook me a while to come around with the box model properly, since initially I couldn't get some margins work properly. Right now, I've grasped the concept better and I'm ready to move on to Flexbox.
 
