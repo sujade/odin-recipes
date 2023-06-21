@@ -2,7 +2,7 @@ body {
     background-color: #98FB98;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    cursor: url(/images/cursor.cur), auto;
+    cursor: url(images/cursor.cur), auto;
     
 }
 
@@ -25,7 +25,7 @@ body {
   font-weight: bold;
   font-size:medium;
   border: 2px solid black;
-  cursor: url(/images/cursor.cur), auto;
+  cursor: url(images/cursor.cur), auto;
   margin: 20px;
 }
 

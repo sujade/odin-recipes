@@ -2,7 +2,7 @@ body {
     background-color: #98FB98;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    cursor: url(/images/cursor.cur), auto;
+    cursor: url(images/cursor.cur), auto;
 }
 
 .card {
@@ -12,11 +12,13 @@ body {
     width: 650px;
     align-content: center;
     margin: auto;
+    cursor: url(images/cursor.cur), auto;
 }
 
 .flex-container {
   display: flex; 
   gap: 20px;
+  cursor: url(images/cursor.cur), auto;
 }
 
 .boxes {
@@ -27,6 +29,7 @@ body {
   flex: 1;
   align-items: center;
   justify-content: center;
+  cursor: url(images/cursor.cur), auto;
 }
 
 .links {
@@ -35,7 +38,7 @@ body {
   color: black;
   font-weight: bold;
   font-size:medium;
-  cursor: url(/images/cursor.cur), auto;
+  cursor: url(images/cursor.cur), auto;
 }
 
 div.container {
