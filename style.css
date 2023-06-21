@@ -29,16 +29,7 @@ body {
 div.container {
     text-align: center;
   }
-  
-  .ul {
-    display: inline-block;
-    text-align: left;
-  }
 
-  .ol {
-    display: inline-block;
-    text-align: left;
-  }
 
 a:hover {
   background-color: salmon;
