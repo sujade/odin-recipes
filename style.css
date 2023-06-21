@@ -2,7 +2,7 @@ body {
     background-color: #98FB98;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    cursor: url(images/cursor.cur), auto;
+    cursor: url(/images/cursor.cur), auto;
 }
 
 .card {
@@ -15,17 +15,31 @@ body {
 }
 
 .links {
-    padding: 30px;
-    text-align: center;
-    background-color:darksalmon;
-    color: black;
-    font-weight: bold;
-    font-size:medium;
-    border: 2px solid black;
-    cursor: url(images/cursor.cur), auto;
+
+  padding: 30px;
+  text-align: center;
+  background-color:darksalmon;
+  color: black;
+  font-weight: bold;
+  font-size:medium;
+  border: 2px solid black;
+  cursor: url(/images/cursor.cur), auto;
 }
 
-a:hover {
-    background-color: salmon;
+div.container {
+    text-align: center;
   }
   
+  .ul {
+    display: inline-block;
+    text-align: left;
+  }
+
+  .ol {
+    display: inline-block;
+    text-align: left;
+  }
+
+a:hover {
+  background-color: salmon;
+}
